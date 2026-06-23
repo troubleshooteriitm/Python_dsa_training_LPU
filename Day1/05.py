@@ -2,3 +2,5 @@
 x=["gokul","apple","orange","grapes"]
 
 
+for i in x:
+    print(i)
