@@ -8,3 +8,4 @@
 
 - https://meet.google.com/niy-gqcm-jpb
 
+- https://whatsapp.com/channel/0029Vb8SkgQ1NCrWgqhUZ30w
