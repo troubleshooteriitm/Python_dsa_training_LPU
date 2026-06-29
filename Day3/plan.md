@@ -1,8 +1,11 @@
 # hour1
 
 "• Second largest / third largest element (no sorting!)
+<!-- https://www.codechef.com/practice/course/arrays/ARRAYS/problems/LARGESECOND?tab=statement -->
 • Frequency count using dictionary
+<!-- https://www.geeksforgeeks.org/python/counting-the-frequencies-in-a-list-using-dictionary-in-python/ -->
 • Left rotate array by K positions
+<!-- https://leetcode.com/problems/rotate-array/description/ -->
 • Array compression: count consecutive elements"
 
 
